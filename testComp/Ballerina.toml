@@ -1,0 +1,9 @@
+[package]
+org = "Wso2Cs"
+name = "testComp"
+version = "1.0.0"
+export = ["testComp"]
+distribution = "2201.3.1"
+
+[build-options]
+observabilityIncluded = true
